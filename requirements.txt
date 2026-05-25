@@ -1,0 +1,7 @@
+langchain==0.1.20
+langchain-community
+langchain-google-genai
+chromadb
+sentence-transformers
+pandas
+python-dotenv
